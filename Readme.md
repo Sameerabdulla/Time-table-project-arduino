@@ -2,7 +2,7 @@
 
 The periods of the day will change according to the time.
 
-# Parts Needed
+## Parts Needed
 
 * Arduino *code compatible with UNO*
 * 0.98 ich OLED display
